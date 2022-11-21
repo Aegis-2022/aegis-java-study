@@ -14,11 +14,11 @@ class Student{
     }
 
     public void getStudentNo(){
-        System.out.print(this.studentNo+" ");
+        System.out.print(this.studentNo+"/");
     }
 
     public void getName(){
-        System.out.print(this.name+" ");
+        System.out.print(this.name+"/");
     }
 
     public void getGender(){
