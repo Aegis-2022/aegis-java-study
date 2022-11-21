@@ -38,6 +38,6 @@ public class Student {
     public void print(){
         System.out.println("학번은 " + this.getStudentNo() +
                          "\n이름은 " + this.getName() +
-                         "\n성별은 " + this.getGender() + "입니다");
+                         "\n성별은 " + this.getGender() + "입니다 (수정)");
     }
 }
