@@ -19,7 +19,7 @@ public class UpAndDownGame {
             } else if (randomNum < scannerNum) {
                 System.out.println("down");
             } else if (randomNum == scannerNum) {
-                System.out.println("정답입니다!");
+                System.out.println("정답입니다");
                 break;
             }
         }
