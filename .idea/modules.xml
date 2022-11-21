@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aegis-java-study.iml" filepath="$PROJECT_DIR$/aegis-java-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seokjoon/oct10/oct10.iml" filepath="$PROJECT_DIR$/seokjoon/oct10/oct10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seokjoon/seokjoon.iml" filepath="$PROJECT_DIR$/seokjoon/seokjoon.iml" />
+    </modules>
+  </component>
+</project>
